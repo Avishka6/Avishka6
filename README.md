@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=[Your%20Name%20Here]&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header banner with animated name"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=[Avishka Udayanga]&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header banner with animated name"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=[Your+Role+1];[Your+Role+2];[Your+Role+3];[Your+Specialty]&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=[Fullstack Engineer];[Web Developer];[Mobile Application Developer];[Your+Specialty]&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
 </div>
 
 <div align="center">
@@ -12,17 +12,17 @@
 
 ## 🚀 About Me
 
-**Welcome to my GitHub profile!** I am a [Your Current Role/Status] currently [What you're doing - studying/working]. I have a passion for **[Your Interest 1]**, **[Your Interest 2]**, and **[Your Interest 3]**. I love turning ideas into reality through code and ensuring they work flawlessly! 
+**Welcome to my GitHub profile!** I am a Student of ITUM currently studying. I have a passion for Software Engineering, Web Development, and Mobile Application Development. I love turning ideas into reality through code and ensuring they work flawlessly! 
 
 <img align="right" alt="Animated developer illustration" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-- 🎓 **Currently studying/working:** [Your current focus]
-- 💻 **Focus areas:** [Area 1], [Area 2], [Area 3]
-- 🌱 **Currently learning:** [Technology 1], [Technology 2]
-- 👯 **Looking to collaborate on:** [Project types you want to work on]
-- 💬 **Ask me about:** [Your expertise areas]
-- 📫 **How to reach me:** Check out my social links below!
-- ⚡ **Fun fact:** [Something interesting about you]
+- 🎓 **Currently studying/working:** Institute of Technology, University of Moratuwa (ITUM)  
+- 💻 **Focus areas:** Fullstack Engineering, Web Development, Mobile Application Development  
+- 🌱 **Currently learning:** Java, JavaScript  
+- 👯 **Looking to collaborate on:** Web apps, mobile apps, and open-source projects  
+- 💬 **Ask me about:** Software engineering, MERN stack, and system design  
+- 📫 **How to reach me:** Check out my social links below!  
+- ⚡ **Fun fact:** I enjoy solving real-world problems through coding and love exploring new technologies.  
 
 <br clear="right"/>
 
@@ -34,29 +34,11 @@
 <tr>
 <td width="33%">
 
-### 🏢 [Project Name 1]
-*[Project Type - Group/Individual]*
-- **Tech Stack:** [Tech 1], [Tech 2], [Tech 3]
-- **Role:** [Your role in project]
-- **Status:** [Current status]
-
-</td>
-<td width="33%">
-
-### ✂️ [Project Name 2]
-*[Project Type - Group/Individual]*
-- **Tech Stack:** [Tech 1], [Tech 2], [Tech 3]
-- **Features:** [Key features]
-- **Status:** [Current status]
-
-</td>
-<td width="33%">
-
-### 📚 [Project Name 3]
-*[Project Type - Group/Individual]*
-- **Tech Stack:** [Tech 1], [Tech 2], [Tech 3]
-- **Focus:** [Main learning focus]
-- **Status:** [Current status]
+### 🏢 [Land Acquisition Management System]
+*[Project Type - Group]*
+- **Tech Stack:** React.js, MySQL, Node.js, Express.js
+- **Role:** Frontend/Backend Developer
+- **Status:** Ongoing
 
 </td>
 </tr>
@@ -83,8 +65,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Quality Assurance & Testing
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Tools & Technologies
@@ -139,11 +119,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME])
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://[YOUR_PORTFOLIO_URL])
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[YOUR_TWITTER_USERNAME])
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/[YOUR_DISCORD])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishka-udayanga-35a3b5387/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishkaudayanga6@gmail.com)
 
 </div>
 
@@ -151,25 +128,15 @@
 
 ## 🎯 Fun Facts & Interests
 
-- 🎮 **Gaming:** [Your gaming interests or favorite games]
-- 📚 **Reading:** [What you like to read about]
-- ☕ **[Your beverage of choice]:** [Fun fact about your work habits]
-- 🌱 **[Your hobby]:** [Description of your hobby]
-- 🎵 **Music:** [Your music taste and how it relates to coding]
-- 🚀 **[Your interest]:** [Something you're passionate about]
+- 🌱 **[Your hobby]:** [Watching Movies]
+- 🎵 **Music:** [I love classical Music
+- 🚀 **[Your interest]:** [I like coding]
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random motivational quote for developers"/>
 </div>
-
----
-
-## 💭 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Replace this with your blog setup or remove this section]
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -181,7 +148,7 @@
   
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&style=for-the-badge&color=brightgreen)
-[![Followers](https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?style=for-the-badge&color=orange&labelColor=ce5a13)](https://github.com/[YOUR_GITHUB_USERNAME]?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=[Avishka6]&style=for-the-badge&color=brightgreen)
+[![Followers](https://img.shields.io/github/followers/[Avishka6]?style=for-the-badge&color=orange&labelColor=ce5a13)](https://github.com/[YOUR_GITHUB_USERNAME]?tab=followers)
 
 </div>
