@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=[Avishka Udayanga]&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header banner with animated name"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Avishka%20Udayanga&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header banner with animated name"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=[Fullstack Engineer];[Web Developer];[Mobile Application Developer];[Your+Specialty]&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;Web+Developer;Mobile+Application+Developer;Software+Engineering+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
 </div>
 
 <div align="center">
@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-**Welcome to my GitHub profile!** I am a Student of ITUM currently studying. I have a passion for Software Engineering, Web Development, and Mobile Application Development. I love turning ideas into reality through code and ensuring they work flawlessly! 
+**Welcome to my GitHub profile!** I am a Student at ITUM currently studying. I have a passion for Software Engineering, Web Development, and Mobile Application Development. I love turning ideas into reality through code and ensuring they work flawlessly! 
 
 <img align="right" alt="Animated developer illustration" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-- 🎓 **Currently studying/working:** Institute of Technology, University of Moratuwa (ITUM)  
+- 🎓 **Currently studying:** Institute of Technology, University of Moratuwa (ITUM)  
 - 💻 **Focus areas:** Fullstack Engineering, Web Development, Mobile Application Development  
 - 🌱 **Currently learning:** Java, JavaScript  
 - 👯 **Looking to collaborate on:** Web apps, mobile apps, and open-source projects  
@@ -34,8 +34,8 @@
 <tr>
 <td width="33%">
 
-### 🏢 [Land Acquisition Management System]
-*[Project Type - Group]*
+### 🏢 Land Acquisition Management System
+*Group Project*
 - **Tech Stack:** React.js, MySQL, Node.js, Express.js
 - **Role:** Frontend/Backend Developer
 - **Status:** Ongoing
@@ -85,12 +85,12 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics showing commits, PRs, and contributions" />
+<img src="https://github-readme-stats.vercel.app/api?username=Avishka6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics showing commits, PRs, and contributions" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Avishka6&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
 
 </td>
 </tr>
@@ -98,11 +98,11 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka6&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="Detailed GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avishka6&theme=tokyonight" alt="Detailed GitHub activity graph" />
 </div>
 
 ---
@@ -110,7 +110,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&column=7" alt="GitHub achievement trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Avishka6&theme=tokyonight&no-frame=true&column=7" alt="GitHub achievement trophies" />
 </div>
 
 ---
@@ -128,9 +128,9 @@
 
 ## 🎯 Fun Facts & Interests
 
-- 🌱 **[Your hobby]:** [Watching Movies]
-- 🎵 **Music:** [I love classical Music
-- 🚀 **[Your interest]:** [I like coding]
+- 🎬 **Movies:** I love watching movies
+- 🎵 **Music:** I enjoy classical music
+- 🚀 **Passion:** I love coding and building solutions
 
 ---
 
@@ -148,7 +148,7 @@
   
 **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=[Avishka6]&style=for-the-badge&color=brightgreen)
-[![Followers](https://img.shields.io/github/followers/[Avishka6]?style=for-the-badge&color=orange&labelColor=ce5a13)](https://github.com/[YOUR_GITHUB_USERNAME]?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Avishka6&style=for-the-badge&color=brightgreen)
+[![Followers](https://img.shields.io/github/followers/Avishka6?style=for-the-badge&color=orange&labelColor=ce5a13)](https://github.com/Avishka6?tab=followers)
 
 </div>
