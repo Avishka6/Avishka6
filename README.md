@@ -17,9 +17,9 @@
 <img align="right" alt="Animated developer illustration" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
 - 🎓 **Currently studying:** Institute of Technology, University of Moratuwa (ITUM)  
-- 💻 **Focus areas:** Fullstack Engineering, Web Development, Mobile Application Development  
+- 💻 **Focus areas:** Fullstack Engineering, Web Development  
 - 🌱 **Currently learning:** Java, JavaScript  
-- 👯 **Looking to collaborate on:** Web apps, mobile apps, and open-source projects  
+- 👯 **Looking to collaborate on:** Web apps and open-source projects  
 - 💬 **Ask me about:** Software engineering, MERN stack, and system design  
 - 📫 **How to reach me:** Check out my social links below!  
 - ⚡ **Fun fact:** I enjoy solving real-world problems through coding and love exploring new technologies.  
@@ -38,7 +38,7 @@
 *Group Project*
 - **Tech Stack:** React.js, MySQL, Node.js, Express.js
 - **Role:** Frontend/Backend Developer
-- **Status:** Ongoing
+- **Status:** Finished
 
 </td>
 </tr>
