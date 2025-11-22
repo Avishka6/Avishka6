@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;Web+Developer;Mobile+Application+Developer;Software+Engineering+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Engineer;Web+Developer;Software+Engineering+Student&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Animated typing text showing roles and skills">
 </div>
 
 <div align="center">
